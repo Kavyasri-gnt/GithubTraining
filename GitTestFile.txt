@@ -1,2 +1,3 @@
 This is the first test file of Git hub training class.
 First change.
+Feature branch is added to the git hub.
